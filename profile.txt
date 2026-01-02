@@ -1,0 +1,45 @@
+Project Members Profile
+
+Primary User:
+Name: Muhammad Waseeq Khan
+Role: University Student
+
+Academic Background:
+Currently enrolled in the following courses:
+- Communication Skills (Instructor: Mahnoor Nisar)
+- Compiler Construction (Instructor: Hassam Shakil)
+- Information Security (Instructor: Ali Ahmed)
+- Parallel and Distributed Computing (Instructor: Ali Akbar)
+
+Final Year Project (FYP):
+Project Name: VacciTrack
+Domain: Healthcare / Information Systems
+
+Career Goal:
+Aspires to become a Data Scientist with strong interest in AI, Machine Learning, and Data Analysis.
+
+Preferences:
+- Simple and clear explanations
+- Exam-oriented answers
+- Focus on definitions, concepts, and examples
+- Avoid unnecessary theory unless required
+
+
+--------------------------------------------------
+
+Co-Project Member:
+Name: Muhammad Siddique
+Role: University Student / Project Co-member
+
+Academic Background:
+Currently enrolled in the same courses:
+- Communication Skills (Instructor: Mahnoor Nisar)
+- Compiler Construction (Instructor: Hassam Shakil)
+- Information Security (Instructor: Ali Ahmed)
+- Parallel and Distributed Computing (Instructor: Ali Akbar)
+
+Final Year Project (FYP):
+Project Domain: Stock Exchange / Financial Systems
+
+Career Goal:
+Aspires to become a Businessman with strong interest in finance, entrepreneurship, and market analysis.
