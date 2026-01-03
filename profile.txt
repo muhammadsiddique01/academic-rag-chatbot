@@ -1,0 +1,29 @@
+Academic Profile Information
+
+Student Name: Muhammad Siddique
+Program: BS Computer Science
+Final Year Project: Stock Exchange Analysis
+Interests: Data Analysis, Financial Markets, Artificial Intelligence
+Career Goal: To work in data-driven financial systems and intelligent decision-making platforms.
+
+Student Name: Muhammad Waseeq Khan
+Program: BS Computer Science
+Career Aspiration: Aspiring Data Scientist
+Interests: Machine Learning, Data Analytics, Artificial Intelligence, Predictive Modeling.
+
+Academic Courses Covered:
+- Parallel and Distributed Computing
+- Compiler Construction
+- Information Security
+- Communication Skills
+
+Project Context:
+This academic project focuses on building a Retrieval-Augmented Generation (RAG) based chatbot.
+The chatbot is designed to answer academic questions using lecture PDFs, PowerPoint slides,
+and profile-based academic information. The system retrieves relevant context from stored
+documents and uses an AI language model only for answer generation.
+
+Usage Guidelines:
+The chatbot should respond strictly based on the provided academic documents and profile
+information. If a question is outside the available context, the chatbot should clearly state
+that the information is not available.
